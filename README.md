@@ -81,7 +81,7 @@ play with components to assemble your own electronics circuit, and will have you
 
 
 
-![](E:\courses\ACC_VR_Diploma\documentation_videos_your_work\graduationProject\pictures\components.PNG)
+![](/media/components.PNG)
 
 
 
@@ -97,7 +97,7 @@ play with components to assemble your own electronics circuit, and will have you
 
 - **inventory system** (drawers) for components containing infinite number of component game object spawned when slot is selected
 
-  ![](E:\courses\ACC_VR_Diploma\documentation_videos_your_work\graduationProject\pictures\drawers.PNG)
+  ![](/media/drawers.PNG)
 
   
 
@@ -108,19 +108,19 @@ play with components to assemble your own electronics circuit, and will have you
   *when you finish connecting your circuit, and enter **simulation mode, ** a group of scripts will check your connections (closed / open , polarity and components) to simulate your circuit
 
   - **in simulation mode**:
-    - your circuit will be simulated and components connected will display certain behavior according to circuit
-    - you **cannot** grab new objects from inventory
-    - all **unconnected component** (from both sides) will disappear , and reappear again when you exit simulation mode
-    - **burnt off **components (like leds) will remain in the scene (even if it is not connected from both sides), so you can easily identify and delete it later
-    - you **can** grab components in simulation mode and move your circuit around, but you **cannot** grab wires and disconnect it from circuit
-    - you **cannot** delete objects in simulation mode
+    -your circuit will be simulated and components connected will display certain behavior according to circuit
+    -you **cannot** grab new objects from inventory
+    -all **unconnected component** (from both sides) will disappear , and reappear again when you exit simulation mode
+    -**burnt off **components (like leds) will remain in the scene (even if it is not connected from both sides), so you can easily identify and delete it later
+    -you **can** grab components in simulation mode and move your circuit around, but you **cannot** grab wires and disconnect it from circuit
+    -you **cannot** delete objects in simulation mode
 
 
-![](E:\courses\ACC_VR_Diploma\documentation_videos_your_work\graduationProject\pictures\led_resistor_connectionCheck.PNG)
+![](/media/led_resistor_connectionCheck.PNG)
 
 
 
-![](E:\courses\ACC_VR_Diploma\documentation_videos_your_work\graduationProject\pictures\multipleLedsConnected.PNG)
+![](/media/multipleLedsConnected.PNG)
 
 
 
@@ -159,10 +159,10 @@ play with components to assemble your own electronics circuit, and will have you
 - **resistors**
 
   - available values:
-    - 100 ohm (brown black brown gold)
-    - 10 kohm (brown back orange gold)
-    - 330 ohm (orange orange brown gold)
-    - 390 ohm (orange white brown gold)
+    -100 ohm (brown black brown gold)
+    -10 kohm (brown back orange gold)
+    -330 ohm (orange orange brown gold)
+    -390 ohm (orange white brown gold)
 
   
 
