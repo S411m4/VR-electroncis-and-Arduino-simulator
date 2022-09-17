@@ -41,9 +41,9 @@ play with components to assemble your own electronics circuit, and will have you
 
   
 
-![]("media\scifiLab1.PNG")
+![](media\scifiLab1.PNG)
 
-![]("media\scifiLab2.PNG")
+![](media\scifiLab2.PNG)
 
 
 
