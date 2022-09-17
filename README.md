@@ -6,9 +6,6 @@
 
 
 
-name: **salma**
-
-
 
 ## Electronics Lab
 
@@ -44,9 +41,9 @@ play with components to assemble your own electronics circuit, and will have you
 
   
 
-![](media\scifiLab1.PNG")
+![]("media\scifiLab1.PNG")
 
-![](media\scifiLab2.PNG")
+![]("media\scifiLab2.PNG")
 
 
 
@@ -57,7 +54,7 @@ play with components to assemble your own electronics circuit, and will have you
 - **Left/Right IndexTrigger** -> snap
 - **A** -> Information about each component (volt, current, status, ..) 
 - **B** -> simulate
-- **X ** -> Open Drawers / inventory
+- **X** -> Open Drawers / inventory
 - **Y** -> delete object
 
 
